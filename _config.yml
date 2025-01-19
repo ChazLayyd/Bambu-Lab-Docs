@@ -1,0 +1,21 @@
+title: PX1K Docs
+description: The official PX1K documentation!
+theme: just-the-docs
+logo: "/images/ChazMakes_Logo_With_Text.png"
+color_scheme: dark
+
+
+aux_links:
+  "Github":
+    - "https://github.com/ChazLayyd/Bambu-Lab-Klipper-Conversion"
+  "Discord":
+    - "https://discord.gg/W6B5mBejuC"
+
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: grey-lt
