@@ -1,6 +1,6 @@
 title: PX1K Docs
 description: The official PX1K documentation!
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 logo: "/images/ChazMakes_Logo_With_Text.png"
 color_scheme: dark
 
