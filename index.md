@@ -1,10 +1,10 @@
 ---
 layout: default
-title: PX1K Documentation
+title: Bambu Lab Klipper Docs
 nav_order: 1
 ---
 
-# PX1K Documentation
+# Bambu Lab Klipper Documentation
 
 ![logo](/images/ChazMakes_Logo_With_Text.png)
 
