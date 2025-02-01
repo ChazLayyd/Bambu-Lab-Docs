@@ -1,6 +1,6 @@
 title: Bambu Klipper Docs
 description: Bambu Klipper Conversion Documentation
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 logo: "/images/ChazMakes_Logo_With_Text.png"
 color_scheme: dark
 
@@ -11,7 +11,7 @@ aux_links:
   "Discord":
     - "https://discord.gg/W6B5mBejuC"
   "Ko-Fi":
-    - "https://ko-fi.com/chazmakes"
+    -  "https://ko-fi.com/chazmakes"
 
 
 callouts:
