@@ -8,13 +8,20 @@ nav_order: 3
 
 Below is a list of components used in the project, you are free to use any parts you want in your project. For simplicity, I listed the parts used in the original build.
 
+{: .note}
+> Due to recent tarrifs imposed by the US against China, some of these stores may not ship to the US anymore, if you find alternative stores but are worried about their legitimacy contact me on Discord.
+
+{: .warning}
 >**Careful, on "Quantity" it is matching the quantities on the links**. E.G, The GDStime 5015 fan link is a 2pcs set, so don't order two of that set as you will get 4 fans.
 
 ---
 
-#### Electronics
+#### Electronics (Original Build)
 
-| Part         | Quantity | Option | Price (USD) |
+{: .note}
+> You are not required to use these specific parts, but this is what is supported by me at the moment. Support for LDO Leviathan & More is coming soon.
+
+| Part | Quantity | Option | Price (USD) |
 | [BigTreeTech Manta M5P](https://aliexpress.com/item/1005006016396189.html) | 1 | M5P CB1 5xTMC2209 | $71.53 | 
 | [BIQU Microprobe](https://www.aliexpress.com/item/1005006301515270.html) | 1 | "MicroProbe" | $11.91 |
 | [230V ONLY, Mornsun LM200-22B24R2](https://www.aliexpress.com/item/1005006869249569.html) | 1 | LM200-22B24R2 | $29.83 |
@@ -25,20 +32,29 @@ Below is a list of components used in the project, you are free to use any parts
 #### Hardware
 
 | Part | Quantity | Option | Price (USD) |
-| [Heat Set Inserts A](https://www.aliexpress.com/item/4000232858343.html) | 100 | M3 X D5.0 X L4.0 | $6.53 |
-| [Heat Set Inserts B](https://www.aliexpress.com/item/4000232858343.html) | 100 | M3 X D4.6 X L3.0 | $5.45 |
+| [Heat Set Inserts A](https://www.aliexpress.com/item/1005003582355741.html) | 50 | M3 (OD 5mm) Length 4.0mm | $1.76 |
+| [Heat Set Inserts B](https://www.aliexpress.com/item/1005003582355741.html) | 50 | M3(OD 4.2mm) Length 3mm | $1.68 |
 | [JST Pre-Crimped Cables A](https://www.aliexpress.com/item/1005007107123815.html) | 5 | 5Pair 4Pin-JK | $2.21 |
 | [JST Pre-Crimped Cables B](https://www.aliexpress.com/item/1005007107123815.html) | 5 | 5Pair 2Pin-JK | $1.39 |
 | [22AWG PVC Wire](https://www.aliexpress.com/item/1005005450270866.html) | 5 | 22AWG 10m x5 rolls | $9.69 |
 | [26AWG PVC Wire](https://www.aliexpress.com/item/1005005450270866.html) | 5 | 26AWG 20m x5 rolls | $10.26 |
 | [JST XH 2.54 Crimp & Connector Set](https://www.aliexpress.com/item/1005006498660940.html) | 1 | XH 2.54mm | $2.40 |
-| [Screws](https://www.aliexpress.com/item/32810852732.html) | 3 | M3x8, M2.5x6 & M2.5x14 | $3.53 |
+| [Screws](https://www.aliexpress.com/item/32810852732.html) | 3 | M3x8, M2.5x6 & M2.5x4 | $3.53 |
+| [Stickyback Zip Tie Holders](https://aliexpress.com/item/1005008907573323.html) | 100 | ND12.5 black 100pcs | $3.50 |
 
 ---
 
-#### Alternative Hardware
+#### Other Electronics
+
+{: .note}
+> None of these are strictly needed, but I recommend purchasing an Accelerometer to do Input Shaping. If you are on a budget, the SKR Pico will serve you well for this project.
 
 | Part | Quantity | Option | Price (USD) |
+| [LDO Leviathan](https://west3d.com/products/leviathan-controller-board-mcu-by-jnp-voron-design-and-ldo-motors-for-klipper-printers) | 1 | LEVIATHAN | $100 |
 | [BigTreeTech SKR Pico](https://www.aliexpress.com/item/1005006007892049.html) | 1 | SKR PICO | $19.72 |
 | [BigTreeTech ADXL345](https://www.aliexpress.com/item/1005004243190853.html) | 1 | ADXL345 | $13.66 |
 | [Meanwell LRS-200](https://www.aliexpress.com/item/4000364274787.html) | 1 | Output Voltage: 24V, Power: LRS-200 | $33.73 |
+
+---
+
+#### Last updated 05/05/2025
