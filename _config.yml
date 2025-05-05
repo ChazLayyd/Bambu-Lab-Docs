@@ -21,3 +21,6 @@ callouts:
   note:
     title: Note
     color: grey-lt
+  tip:
+    title: Tip
+    color: green
