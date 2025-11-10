@@ -41,6 +41,7 @@ Below is a list of components used in the project, you are free to use any parts
 | [JST XH 2.54 Crimp & Connector Set](https://www.aliexpress.com/item/1005006498660940.html) | 1 | XH 2.54mm | $2.40 |
 | [Screws](https://www.aliexpress.com/item/32810852732.html) | 3 | M3x8, M2.5x6 & M2.5x4 | $3.53 |
 | [Stickyback Zip Tie Holders](https://aliexpress.com/item/1005008907573323.html) | 100 | ND12.5 black 100pcs | $3.50 |
+| [4X2MM Magnets](https://www.aliexpress.com/item/1005010231587515.html) | 50 | 4X2-50pcs | $2.12 |
 
 ---
 
@@ -57,4 +58,5 @@ Below is a list of components used in the project, you are free to use any parts
 
 ---
 
-#### Last updated 05/05/2025
+#### Last updated 10/11/2025
+
