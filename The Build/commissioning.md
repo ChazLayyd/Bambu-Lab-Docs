@@ -228,7 +228,11 @@ Congrats! You have completed all of the necessary steps to start printing. So fa
 - Trammed the bed and performed a bed mesh to ensure the probe works
 - Performed input shaping to counter resonances that can cause ringing and other artifacts in your prints
 
-All that is now left is to go into your slicer of choice, slice up a model and print! So lets do that. I have provided a preset file for OrcaSlicer for now, which is the most popular choice at the moment. You can import this preset file and it will come with a pre-tuned PLA & ABS profile, as well as all of the necessary gcode to make the printer work with the macros. I recommend printing either a 3DBenchy or a Voron Cube to start out with the pre-sliced profile. 
+All that is now left is to go into your slicer of choice, slice up a model and print! I recommend taking a P1S profile and changing gcode flavour to Klipper, then replacing the start and end gcode with:
+
+`START_PRINT T_EXTRUDER=[nozzle_temperature_initial_layer] T_BED=[bed_temperature_initial_layer_single]`
+
+`END_PRINT`
 
 Carefully watch the entire process start to finish, make sure it homes successfully, performs a bed mesh and purges a thicc line before a print starts. Since we use KAMP (Klipper Adaptive Meshing & Purging), it will only probe & purge where the model actually is. Start watching that first layer go down, you can actively tweak your Z_OFFSET here and save the value after it has printed. If you start having your nozzle scrape the bed, hit the **EMERGENCY STOP** button to prevent further damage, if that happens you need to re-run the probe_calibrate routine. Please also contact me on Discord if this happens so I can help you go through the process if necessary.
 
@@ -241,5 +245,6 @@ That's it! You have successfully converted your Bambu Lab P1 (Or X1 👀) to run
 Take care, happy printing! 💜
 
 ---
+
 
 #### Last updated 05/05/2025
