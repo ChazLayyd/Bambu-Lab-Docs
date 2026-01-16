@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Credits
-nav_order: 6
+nav_order: 5
 ---
 
 # Credits to:
@@ -21,3 +21,4 @@ nav_order: 6
 ---
 
 #### Last updated 05/05/2025
+
