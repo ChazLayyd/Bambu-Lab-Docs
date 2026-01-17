@@ -30,7 +30,7 @@ Just note, this **WILL** be annoying for P1K builders. Theres a lot of crimping,
 If you are following this guide to apply these sensors to other printers, then grab all of these:
 
 | Part | Quantity | Price (USD) |
-| [Heatbed Piezo Interface Board](https://eu.store.bambulab.com/products/heatbed-piezo-interface-board) | 2 | $12.00 | 
+| [Heatbed Piezo Interface Board](https://us.store.bambulab.com/products/heatbed-piezo-interface-board) | 2 | $12.00 | 
 | [Heatbed Sensor Interface Board](https://us.store.bambulab.com/products/heatbed-sensor-interface-board) | 1 | $3.00 |
 | [Heatbed Sensor Unit](https://us.store.bambulab.com/products/heatbed-sensor-unit) | 3 | $15.00 |
 | [PicoBlade Connectors](https://www.aliexpress.com/item/1005010263794498.html) | 1 | $6.00 |
@@ -97,5 +97,6 @@ Run `BED_MESH_CALIBRATE` and carefully watch the whole process, the sensitivity 
 Done!
 
 #### Last updated 17/01/2026
+
 
 
