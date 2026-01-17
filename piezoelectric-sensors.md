@@ -43,7 +43,7 @@ We will be using a XIAO RP2040 board with firmware that supplies the Piezo Board
 
 # Flashing the RP2040
 
-Flashing the XIAO RP2040 is ridiculously easy, download Arduino IDE. Navigate to File -> Preferences, in the "Additional boards manager URLS" window, paste the following [GitHub Link](https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json) there. Once this is added, navigate to the boards manager tab, type RP2040 and download "Raspberry Pi Pico/RP2040/RP2350 by Earle F. Philhower", after that simply plug your XIAO RP2040 into the PC and it should be detected. Copy paste the code on the [GitHub Repo]() into the window, then click the upload arrow in the top left of IDE. It should flash successfully and you are likely to get a serial output that is just spamming "Piezo Triggered".
+Flashing the XIAO RP2040 is ridiculously easy, download Arduino IDE. Navigate to File -> Preferences, in the "Additional boards manager URLS" window, paste the following [GitHub Link](https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json) there. Once this is added, navigate to the boards manager tab, type RP2040 and download "Raspberry Pi Pico/RP2040/RP2350 by Earle F. Philhower", after that simply plug your XIAO RP2040 into the PC and it should be detected. Copy paste the code on the [GitHub Repo](https://github.com/ChazLayyd/Bambu-Lab-Klipper-Conversion/blob/main/Firmware/Piezo%20Firmware/Piezo_Firmware.txt) into the window, then click the upload arrow in the top left of IDE. It should flash successfully and you are likely to get a serial output that is just spamming "Piezo Triggered".
 
 ---
 
@@ -89,3 +89,4 @@ Run `BED_MESH_CALIBRATE` and carefully watch the whole process, the sensitivity 
 Done!
 
 #### Last updated 17/01/2026
+
