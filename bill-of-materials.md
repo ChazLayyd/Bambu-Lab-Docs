@@ -33,7 +33,7 @@ Below is a list of components used in the project, you are free to use any parts
 
 | Part | Quantity | Option | Price (USD) |
 | [Heat Set Inserts A](https://www.aliexpress.com/item/1005003582355741.html) | 50 | M3 (OD 5mm) Length 4.0mm | $1.76 |
-| [Heat Set Inserts B](https://www.aliexpress.com/item/1005003582355741.html) | 50 | M3(OD 4.2mm) Length 3mm | $1.68 |
+| [Heat Set Inserts B](https://www.aliexpress.com/item/1005003582355741.html) | 50 | M3(OD 4.6mm) Length 3mm | $1.68 |
 | [JST Pre-Crimped Cables A](https://www.aliexpress.com/item/1005007107123815.html) | 5 | 5Pair 4Pin-JK | $2.21 |
 | [JST Pre-Crimped Cables B](https://www.aliexpress.com/item/1005007107123815.html) | 5 | 5Pair 2Pin-JK | $1.39 |
 | [22AWG PVC Wire](https://www.aliexpress.com/item/1005005450270866.html) | 5 | 22AWG 10m x5 rolls | $9.69 |
@@ -59,4 +59,5 @@ Below is a list of components used in the project, you are free to use any parts
 ---
 
 #### Last updated 10/11/2025
+
 
